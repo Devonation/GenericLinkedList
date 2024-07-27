@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\duerh\\Desktop\\GitHub Projects\\GenericLinkedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A90CEB-244D-4B4B-834A-AAFF03771F39}|GenericLinkedList\\GenericLinkedList.csproj|c:\\users\\duerh\\desktop\\github projects\\genericlinkedlist\\genericlinkedlist\\customlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A90CEB-244D-4B4B-834A-AAFF03771F39}|GenericLinkedList\\GenericLinkedList.csproj|solutionrelative:genericlinkedlist\\customlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A90CEB-244D-4B4B-834A-AAFF03771F39}|GenericLinkedList\\GenericLinkedList.csproj|c:\\users\\duerh\\desktop\\github projects\\genericlinkedlist\\genericlinkedlist\\gadget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A90CEB-244D-4B4B-834A-AAFF03771F39}|GenericLinkedList\\GenericLinkedList.csproj|solutionrelative:genericlinkedlist\\gadget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A90CEB-244D-4B4B-834A-AAFF03771F39}|GenericLinkedList\\GenericLinkedList.csproj|c:\\users\\duerh\\desktop\\github projects\\genericlinkedlist\\genericlinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A90CEB-244D-4B4B-834A-AAFF03771F39}|GenericLinkedList\\GenericLinkedList.csproj|solutionrelative:genericlinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A90CEB-244D-4B4B-834A-AAFF03771F39}|GenericLinkedList\\GenericLinkedList.csproj|c:\\users\\duerh\\desktop\\github projects\\genericlinkedlist\\genericlinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A90CEB-244D-4B4B-834A-AAFF03771F39}|GenericLinkedList\\GenericLinkedList.csproj|solutionrelative:genericlinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 230,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gadget.cs",
+              "DocumentMoniker": "C:\\Users\\duerh\\Desktop\\GitHub Projects\\GenericLinkedList\\GenericLinkedList\\Gadget.cs",
+              "RelativeDocumentMoniker": "GenericLinkedList\\Gadget.cs",
+              "ToolTip": "C:\\Users\\duerh\\Desktop\\GitHub Projects\\GenericLinkedList\\GenericLinkedList\\Gadget.cs",
+              "RelativeToolTip": "GenericLinkedList\\Gadget.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:48:40.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\duerh\\Desktop\\GitHub Projects\\GenericLinkedList\\GenericLinkedList\\CustomLinkedList.cs",
+              "RelativeDocumentMoniker": "GenericLinkedList\\CustomLinkedList.cs",
+              "ToolTip": "C:\\Users\\duerh\\Desktop\\GitHub Projects\\GenericLinkedList\\GenericLinkedList\\CustomLinkedList.cs",
+              "RelativeToolTip": "GenericLinkedList\\CustomLinkedList.cs",
+              "ViewState": "AQIAABAAAAAA/DIzMzP3vyUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:18:14.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\duerh\\Desktop\\GitHub Projects\\GenericLinkedList\\GenericLinkedList\\Node.cs",
+              "RelativeDocumentMoniker": "GenericLinkedList\\Node.cs",
+              "ToolTip": "C:\\Users\\duerh\\Desktop\\GitHub Projects\\GenericLinkedList\\GenericLinkedList\\Node.cs",
+              "RelativeToolTip": "GenericLinkedList\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:16:05.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\duerh\\Desktop\\GitHub Projects\\GenericLinkedList\\GenericLinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "GenericLinkedList\\Program.cs",
+              "ToolTip": "C:\\Users\\duerh\\Desktop\\GitHub Projects\\GenericLinkedList\\GenericLinkedList\\Program.cs",
+              "RelativeToolTip": "GenericLinkedList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:15:36.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
