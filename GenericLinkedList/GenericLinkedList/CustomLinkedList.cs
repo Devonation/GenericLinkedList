@@ -24,23 +24,42 @@ namespace GenericLinkedList
             current.Next = new Node<T>(item);
         }
 
-        public void RemoveItem(string name)
+        public bool RemoveItem(string name)
         {
             PropertyInfo? propertyInfo = typeof(T).GetProperty("Name");
 
             if (propertyInfo != null)
             {
                 Console.WriteLine("Item does not have 'Name' property");
+                return false;
             }
             else
             {
                 Node<T> current = head;
-
+                Node<T> previous = null;
+                if (current.Data != null)
+                {
+                    do
+                    {
+                        if (current.Data.GetType().GetProperty("Name").Equals(name))
+                        {
+                            previous = current.Next;
+                            current = null;
+                            return true;
+                        }
+                        previous = current;
+                        current = current.Next;
+                    } while (current.Next != null);
+                    return false;
+                }
+                else
+                {
+                    return false;
+                }
             }
-
         }
 
-        public bool FindItem(T item)
+        public T FindItem(string name)
         {
             Node<T> current = head;
 
@@ -48,17 +67,17 @@ namespace GenericLinkedList
             {
                 do
                 {
-                    if (current.Data.Equals(item))
+                    if (current.Data.GetType().GetProperty("Name").Equals(name))
                     {
-                        return true;
+                        return current.Data;
                     }
                     current = current.Next;
                 } while (current.Next != null);
-                return false;
+                return default;
             }
             else
             {
-                return false;
+                return default;
             }
         }
     }

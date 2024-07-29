@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\duerh\\Desktop\\GitHub Projects\\GenericLinkedList\\GenericLinkedList\\GenericLinkedList.csproj",
+      "projectUniqueName": "C:\\Users\\duerh\\Desktop\\GitHub Projects\\GenericLinkedList\\GenericLinkedList\\GenericLinkedList\\GenericLinkedList.csproj",
       "projectName": "GenericLinkedList",
-      "projectPath": "C:\\Users\\duerh\\Desktop\\GitHub Projects\\GenericLinkedList\\GenericLinkedList\\GenericLinkedList.csproj",
+      "projectPath": "C:\\Users\\duerh\\Desktop\\GitHub Projects\\GenericLinkedList\\GenericLinkedList\\GenericLinkedList\\GenericLinkedList.csproj",
       "packagesPath": "C:\\Users\\duerh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\duerh\\Desktop\\GitHub Projects\\GenericLinkedList\\GenericLinkedList\\obj\\",
+      "outputPath": "C:\\Users\\duerh\\Desktop\\GitHub Projects\\GenericLinkedList\\GenericLinkedList\\GenericLinkedList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\duerh\\AppData\\Roaming\\NuGet\\NuGet.Config",
